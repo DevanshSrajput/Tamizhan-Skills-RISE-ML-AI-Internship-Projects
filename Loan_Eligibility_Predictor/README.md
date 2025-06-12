@@ -189,9 +189,7 @@ Created with ❤️ and way too much caffeine by **Devansh Singh**
 
 Found a bug? Have a suggestion? Want to hire me?
 
-- 📧 Email: [Insert your email here]
-- 💼 LinkedIn: [Insert your LinkedIn here]
-- 🐱 GitHub: [Insert your GitHub here]
+- 📧 Email: dksdevansh@gmail.com
 
 ---
 
